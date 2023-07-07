@@ -1,2 +1,3 @@
 # My-Codes
-The repository contains my practise codes
+C# beginer<br/>
+The repository contains C# codes.
