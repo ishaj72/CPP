@@ -1,3 +1,3 @@
 # My-Codes
-C# beginer<br/>
-The repository contains C# codes.
+Consists of c++ and c#(beginer level) codes.
+The codes are not completely mine.
