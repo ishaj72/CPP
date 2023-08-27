@@ -1,3 +1,3 @@
 # My-Codes
-Consists of c++ and c#(beginer level) codes.
+Consists of c++ codes.
 The codes are not completely mine.
